@@ -6,10 +6,16 @@ Profile
 
 Name : Rangaswamy Nagarajan
 
-Computer Programming : 5 \n
-Math : 5 \n
-Statistics : 3 \n
-Machine Learning : 1 \n
-Domain Expertise : 5 \n
-Communication and Presentation Skills : 4 \n
-Data Visualization : 4 \n
+Computer Programming : 5
+
+Math : 5
+
+Statistics : 3
+
+Machine Learning : 1
+
+Domain Expertise : 5
+
+Communication and Presentation Skills : 4
+
+Data Visualization : 4
